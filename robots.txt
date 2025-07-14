@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://ricsae.us.kg/sitemap.xml
+Sitemap: https://ricsae.github.io/sitemap.xml

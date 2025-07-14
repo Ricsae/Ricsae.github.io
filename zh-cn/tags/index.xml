@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ricsaeの博客</title>
+    <link>http://localhost:1313/zh-cn/tags/</link>
+    <description>Recent content in Tags on Ricsaeの博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 Ricsae</copyright>
+    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blowfish</title>
+      <link>http://localhost:1313/zh-cn/tags/blowfish/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh-cn/tags/blowfish/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/zh-cn/tags/hugo/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh-cn/tags/hugo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>指南</title>
+      <link>http://localhost:1313/zh-cn/tags/%E6%8C%87%E5%8D%97/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh-cn/tags/%E6%8C%87%E5%8D%97/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
