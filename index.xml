@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>欢迎来到 Ricsae's Blog ！ on Ricsaeの博客</title><link>https://ricsae.github.io/</link><description>Recent content in 欢迎来到 Ricsae's Blog ！ on Ricsaeの博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Ricsae</copyright><lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ricsae.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Re-WebBlog</title><link>https://ricsae.github.io/posts/re-webblog/</link><pubDate>Tue, 08 Jul 2025 19:32:17 -0800</pubDate><guid>https://ricsae.github.io/posts/re-webblog/</guid><description>&lt;h2 class="relative group">更新一下WebBlog框架。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>欢迎来到 Ricsae's Blog ！ on Ricsaeの博客</title><link>https://ricsae.qzz.io/</link><description>Recent content in 欢迎来到 Ricsae's Blog ！ on Ricsaeの博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Ricsae</copyright><lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ricsae.qzz.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Re-WebBlog</title><link>https://ricsae.qzz.io/posts/re-webblog/</link><pubDate>Tue, 08 Jul 2025 19:32:17 -0800</pubDate><guid>https://ricsae.qzz.io/posts/re-webblog/</guid><description>&lt;h2 class="relative group">更新一下WebBlog框架。
 &lt;div id="更新一下webblog框架" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
@@ -6,8 +6,8 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/span>
 &lt;/h2>
 &lt;p>本博客使用了
-&lt;a href="https://ricsae.github.io/go/?target=aHR0cHM6Ly9nb2h1Z28uaW8v" target="_blank" rel="noopener noreferrer" >Hugo&lt;/a>-
-&lt;a href="https://ricsae.github.io/go/?target=aHR0cHM6Ly9ibG93ZmlzaC5wYWdlLw%3d%3d" target="_blank" rel="noopener noreferrer" >Blowfish&lt;/a>。&lt;/p>
+&lt;a href="https://ricsae.qzz.io/go/?target=aHR0cHM6Ly9nb2h1Z28uaW8v" target="_blank" rel="noopener noreferrer" >Hugo&lt;/a>-
+&lt;a href="https://ricsae.qzz.io/go/?target=aHR0cHM6Ly9ibG93ZmlzaC5wYWdlLw%3d%3d" target="_blank" rel="noopener noreferrer" >Blowfish&lt;/a>。&lt;/p>
 &lt;div class="github-card-wrapper">&lt;a id="github-4e1962cf4a580763385ef2e637e3bc42" target="_blank" href="https://github.com/nunocoracao/blowfish" class="cursor-pointer">
 &lt;div
 class="w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl">&lt;div class="w-full nozoom">
