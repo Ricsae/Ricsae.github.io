@@ -6,8 +6,9 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/span>
 &lt;/h2>
 &lt;p>本博客使用了
-&lt;a href="https://ricsae.github.io/go/?target=aHR0cHM6Ly9nb2h1Z28uaW8v" target="_blank" rel="noopener noreferrer" >Hugo&lt;/a>的
-&lt;a href="https://ricsae.github.io/go/?target=aHR0cHM6Ly9ibG93ZmlzaC5wYWdlLw%3d%3d" target="_blank" rel="noopener noreferrer" >Blowfish&lt;/a>。&lt;div class="github-card-wrapper">&lt;a id="github-4e1962cf4a580763385ef2e637e3bc42" target="_blank" href="https://github.com/nunocoracao/blowfish" class="cursor-pointer">
+&lt;a href="https://ricsae.github.io/go/?target=aHR0cHM6Ly9nb2h1Z28uaW8v" target="_blank" rel="noopener noreferrer" >Hugo&lt;/a>-
+&lt;a href="https://ricsae.github.io/go/?target=aHR0cHM6Ly9ibG93ZmlzaC5wYWdlLw%3d%3d" target="_blank" rel="noopener noreferrer" >Blowfish&lt;/a>。&lt;/p>
+&lt;div class="github-card-wrapper">&lt;a id="github-4e1962cf4a580763385ef2e637e3bc42" target="_blank" href="https://github.com/nunocoracao/blowfish" class="cursor-pointer">
 &lt;div
 class="w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl">&lt;div class="w-full nozoom">
 &lt;img
